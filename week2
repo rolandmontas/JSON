@@ -2,7 +2,7 @@
   "mlbteams": [
     { "name": "Red Sox", "city": "Boston", "state": "Massachusetts", "league": "American", "division": "East", },
     { "name": "Yankees", "city": "Bronx", "state": "New York", "league": "American", "division": "East", },
-    { "name": "Orioles", "city": "Baltimore", "state": "Meriland", "league": "American", "division": "East", },
+    { "name": "Orioles", "city": "Baltimore", "state": "Meryland", "league": "American", "division": "East", },
     { "name": "Rays", "city": "St. Petersburg", "state": "Florida", "league": "American", "division": "East", },
     { "name": "Blue Jays", "city": "Toronto", "state": "Ontario", "league": "American", "division": "East", },
     { "name": "Indians", "city": "Cleveland", "state": "Ohio", "league": "American", "division": "Central", },
