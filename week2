@@ -1,7 +1,7 @@
 {
   "actors": [
-    { "name": Brad Pitt, "dob": "December 18, 1963" },
-    { "name": 2, "dob": "Post 2" },
-    { "name": 3, "dob": "Post 3" }
+    { "name": "Brad Pitt", "dob": "December 18, 1963" },
+    { "name": "Brad Pitt", "dob": "December 18, 1963" },
+    { "name": "Brad Pitt", "dob": "December 18, 1963" },
   ]
  }
