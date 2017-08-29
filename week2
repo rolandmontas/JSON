@@ -1,5 +1,5 @@
 {
-  "actors": [
+  "mlbteams": [
     { "name": "Red Sox", "city": "Boston", "state": "Massachusetts", "league": "American", "division": "East", },
     { "name": "Yankees", "city": "Bronx", "state": "New York", "league": "American", "division": "East", },
     { "name": "Orioles", "city": "Baltimore", "state": "Meriland", "league": "American", "division": "East", },
